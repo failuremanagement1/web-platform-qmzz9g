@@ -1,0 +1,27 @@
+body {
+  color: black;
+  background-color: red;
+  margin: 5%;
+  font-family: 'Satisfy', cursive;
+}
+
+h1 {
+  border: 4px orange dashed;
+  border-radius: 10px;
+  font-size: 188%;
+}
+
+button {
+  background-color: black;
+  color: white;
+  transition: color 2s;
+  font-family: 'Satisfy', cursive;
+}
+
+button:hover {
+  color: yellow;
+}
+
+button:active {
+  color: red;
+}
